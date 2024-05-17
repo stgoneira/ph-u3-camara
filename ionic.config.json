@@ -1,0 +1,7 @@
+{
+  "name": "ph-u3-camara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
